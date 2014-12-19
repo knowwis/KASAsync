@@ -82,7 +82,7 @@ Do you hate closures and blockes? Do you like await in C#? Do you want make your
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "KASAsync", "KASAsync/*.{h,m}"
+  s.source_files  = "KASAsync", "KASAsync/*.swift"
 
   # s.public_header_files = "Classes/**/*.h"
 
